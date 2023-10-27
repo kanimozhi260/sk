@@ -109,5 +109,6 @@ ul li a:hover{
 }
 
 .images:hover.girl{
+    top:8%;
     left: 55%;
 }
