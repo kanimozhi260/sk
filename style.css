@@ -25,11 +25,11 @@
 .navbar .logo{
     width: 160px;
     cursor: pointer;
-    margin-top: 2%;
-    margin-left: 2%;
+    margin-top: -3%;
+    margin-left:- 2%;
 }
 ul{
-    margin-top: 2%;
+    margin-top: -4%;
 }
 
 ul li{
@@ -44,11 +44,11 @@ ul li a {
     font-weight: bold;
     text-decoration: none;
     margin-top: -3%;
-    transition: 4s ease;
+    transition: .4s ease;
 }
 
 ul li a:hover{
-    color: rgb(245, 76, 9);
+    color: rgb(230, 104, 59);
 
 }
 
@@ -72,9 +72,10 @@ ul li a:hover{
     color: rgb(230,12,114);
 }
 
-.info a{
+.info{
     text-decoration: none;
     color: #fff;
+    background:rgb(36,32,30);
     background: rgb(7, 1, 12);
     margin: 26px 0;
     padding: 10px 18px;
